@@ -43,7 +43,7 @@ The zip contains a folder named **Jukebox Real Music** — that's the resource p
 | | |
 |---|---|
 | **Edition** | Minecraft Java |
-| **Versions** | 1.19.4 – 1.21.x |
+| **Versions** | 1.19.4 – 1.21.x (Java Edition) |
 | **Type** | Resource pack |
 | **Mods** | Not required |
 

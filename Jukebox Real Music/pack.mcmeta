@@ -1,13 +1,9 @@
 {
   "pack": {
     "pack_format": 13,
-    "supported_formats": {
-      "min_inclusive": 13,
-      "max_inclusive": 75
-    },
-    "description": [
-      {"text": "Jukebox Real Music", "color": "gold"},
-      {"text": "\nClassic Minecraft parody songs on music discs", "color": "gray"}
-    ]
+    "supported_formats": [13, 75],
+    "min_format": 13,
+    "max_format": 75,
+    "description": "Jukebox Real Music"
   }
 }
