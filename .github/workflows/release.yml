@@ -1,0 +1,28 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Build resource pack zip
+        run: |
+          zip -r "Jukebox-Real-Music-${GITHUB_REF_NAME}.zip" "Jukebox Real Music"
+          unzip -l "Jukebox-Real-Music-${GITHUB_REF_NAME}.zip" | head -6
+
+      - name: Upload to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Jukebox-Real-Music-${{ github.ref_name }}.zip
+          fail_on_unmatched_files: true

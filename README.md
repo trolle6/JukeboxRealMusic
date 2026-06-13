@@ -10,7 +10,7 @@ Drop a disc in a jukebox and hear the full songs — Revenge, TNT, Fallen Kingdo
 
 ## Installation
 
-1. Download the latest **`Jukebox-Real-Music-*.zip`** from [Releases](https://github.com/trolle6/JukeboxRealMusic/releases).
+1. Download the latest **`Jukebox-Real-Music-*.zip`** from [Releases](https://github.com/trolle6/JukeboxRealMusic/releases) (pick the resource pack zip, not "Source code").
 2. Unzip it into your Minecraft `resourcepacks` folder:
    - **Default launcher:** `%appdata%\.minecraft\resourcepacks\`
    - **Prism / MultiMC:** `<instance>/.minecraft/resourcepacks/`
