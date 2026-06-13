@@ -48,12 +48,6 @@ Anyone who grew up on Minecraft parody music and wants that feeling back in surv
 
 Newer vanilla discs (5, otherside, relic, creator, etc.) are **not** changed.
 
-## Project history
-
-Started as a personal pack called **“Vilgots Musik Pack”**, built around Minecraft parody discs by Trolle and Vilgot. It worked in practice but had rough edges: broken metadata, invalid translation keys, a bloated language file, and unrelated asset overrides.
-
-This repo is the cleaned-up, public version — renamed **Jukebox Real Music**, fixed for cross-version use, and documented for sharing.
-
 ## Repository layout
 
 ```

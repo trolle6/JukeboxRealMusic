@@ -44,15 +44,6 @@ Works on **Minecraft Java Edition 1.19.4 through 1.21.x** (pack formats 13–75)
 
 This pack only replaces music disc audio, textures, and names. It does not require mods. Any mod that adds custom discs will not be affected unless it reuses the same vanilla disc IDs.
 
-## What was fixed from the original pack
-
-- Removed a broken `sounds.json` that could interfere with sound loading
-- Replaced a 4,000-line full vanilla language file with only the disc-related entries
-- Fixed disc name translation keys (the old pack used invalid keys like `music_disc_Revenge`)
-- Removed unrelated block/model overrides (stonecutter, etc.)
-- Added cross-version `supported_formats` in `pack.mcmeta`
-- Renamed from "Vilgots Musik Pack" to **Jukebox Real Music**
-
 ## Missing artwork
 
 The **11** (Creeper Rap) disc has custom audio and a jukebox title but no custom texture yet — it uses the vanilla disc look. Contributions welcome.
