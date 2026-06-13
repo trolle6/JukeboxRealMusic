@@ -58,7 +58,7 @@ This repo is the cleaned-up, public version — renamed **Jukebox Real Music**, 
 
 ```
 JukeboxRealMusic/
-├── resourcepack/          ← the actual Minecraft resource pack
+├── Jukebox Real Music/    ← the actual Minecraft resource pack
 │   ├── pack.mcmeta
 │   ├── pack.png
 │   └── assets/minecraft/

@@ -30,14 +30,13 @@ Discs added in newer Minecraft versions (5, otherside, relic, creator, etc.) are
 
 ## Installation
 
-1. Download or clone this repository.
-2. Copy the `resourcepack` folder into your Minecraft `resourcepacks` directory:
+1. Download the [latest release](https://github.com/trolle6/JukeboxRealMusic/releases) or clone this repository.
+2. Copy the **`Jukebox Real Music`** folder into your Minecraft `resourcepacks` directory:
    - **Prism/MultiMC:** `<instance>/.minecraft/resourcepacks/`
    - **Default launcher:** `%appdata%\.minecraft\resourcepacks\`
-3. Rename the folder to `Jukebox Real Music` if you like (optional).
-4. In Minecraft: **Options → Resource Packs →** enable **Jukebox Real Music** and move it to the top.
+3. In Minecraft: **Options → Resource Packs →** enable **Jukebox Real Music** and move it to the top.
 
-You can also zip the contents of `resourcepack/` (not the folder itself) and import the `.zip` directly.
+If you downloaded the release `.zip`, unzip it into your `resourcepacks` folder — it already contains a folder named **Jukebox Real Music**.
 
 ## Compatibility
 
