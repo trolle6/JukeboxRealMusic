@@ -24,19 +24,19 @@ The zip contains a folder named **Jukebox Real Music** — that's the resource p
 
 | Disc | Song |
 |------|------|
-| 13 | Revenge |
-| cat | Hunger Games |
-| blocks | 500 Chunks |
-| chirp | Supernatural Mobs |
-| far | Fallen Kingdom |
-| mall | Screw the Nether |
-| mellohi | Dragonhearted |
-| stal | Don't Mine at Night |
-| strad | How Do I Craft This Again |
-| ward | TNT |
-| 11 | Creeper Rap |
-| wait | Wrecking Mob |
-| pigstep | Mine All Day |
+| 13 | [Revenge](https://www.youtube.com/watch?v=cPJUBQd-PNM) |
+| cat | [Hunger Games](https://www.youtube.com/watch?v=_Ca12JSMN9E) |
+| blocks | [500 Chunks](https://www.youtube.com/watch?v=pz6mQHleihw) |
+| chirp | [Supernatural Mobs](https://www.youtube.com/watch?v=29fejX2UPoQ) |
+| far | [Fallen Kingdom](https://www.youtube.com/watch?v=k2rDbRUDkds) |
+| mall | [Screw the Nether](https://www.youtube.com/watch?v=gqELqRCnW6g) |
+| mellohi | [Dragonhearted](https://www.youtube.com/watch?v=07rtl-zcQhg) |
+| stal | [Don't Mine at Night](https://www.youtube.com/watch?v=X_XGxzMrq04) |
+| strad | [How Do I Craft This Again](https://www.youtube.com/watch?v=fcuWKpyUGHo) |
+| ward | [TNT](https://www.youtube.com/watch?v=I-sH53vXP2A) |
+| 11 | [Creeper Rap](https://www.youtube.com/watch?v=ZZujisNZuw0) |
+| wait | [Wrecking Mob](https://www.youtube.com/watch?v=UiKOf4jNbm8) |
+| pigstep | [Mine All Day](https://www.youtube.com/watch?v=UAlIq7BKNxg) |
 
 ## Compatibility
 
